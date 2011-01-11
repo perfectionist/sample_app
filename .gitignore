@@ -2,6 +2,7 @@
 db/*.sqlite3
 log/*.log
 *.log
+webrat.log
 tmp/**/*
 tmp/*
 Gemfile.lock
