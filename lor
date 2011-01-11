@@ -1,0 +1,9 @@
+..........*......
+
+Pending:
+  User add some examples to (or delete) /Users/loeffler/railsprojects/sample_app/spec/models/user_spec.rb
+    # Not Yet Implemented
+    # ./spec/models/user_spec.rb:4
+
+Finished in 0.29336 seconds
+17 examples, 0 failures, 1 pending
