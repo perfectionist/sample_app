@@ -17,6 +17,9 @@ class UsersController < ApplicationController
       redirect_to @user
     else
       @title = "Sign Up"
+      # Exercise 8.2 - clear password field before redisplay of sign up form.
+      @user.password= ''
+      @user.password_confirmation= ''
       render 'new'
     end
     
